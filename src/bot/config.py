@@ -1,9 +1,9 @@
 class Config(object):
     LOGGER = True
-    DATABASE_URI ='postgresql://postgres:24111999@localhost:5432/groupref'
-    LOG_CHANNEL = -1001410504549
-    SUDO_USERS=[431108047,972650691,1773748036,1508254655,1776321910,1669215589,1853258941]
-    BOT_TOKEN='1393190801:AAFSRCGOQAajiyY7SE5kxTDTcaPDecOQAjs'
+    DATABASE_URI ='postgres://u65pvrolirbd5v:p349c544fdfd1d098897dd59ec7bce3140088ae7d2d1ffe8485e2c6e7da306dbb@c6sfjnr30ch74e.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/dero9carbep2ih'
+    LOG_CHANNEL = "-1002005902455"
+    SUDO_USERS=[5297549539]
+    BOT_TOKEN='6030145995:AAGqawj9tdp6rAv6FSM6NonH6dbjKBX6rVc'
     WORKERS = 8
-    SUPPORT_CHANNEL='NanoDogecoin'
+    SUPPORT_CHANNEL='TeleXMovies'
     
